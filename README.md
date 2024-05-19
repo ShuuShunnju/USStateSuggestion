@@ -2,12 +2,12 @@
 To run the project
 
 ## For db directory:
-cd db
-npm install
-docker-compose up
+`cd db`
+`npm install`
+`docker-compose up`
 
-cd db
-node seed.js
+`cd db`
+`node seed.js`
 
 ## For backend directory:
 Make sure installed Golang 1.22+, and do

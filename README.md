@@ -11,10 +11,10 @@ node seed.js
 
 ## For backend directory:
 Make sure installed Golang 1.22+, and do
-export PATH=$PATH:/usr/local/go/bin
-go run main.go
+`export PATH=$PATH:/usr/local/go/bin`  
+`go run main.go`
 
 ## For frontend directory:
-cd vue-project
-npm install
-npm run serve
+`cd vue-project`  
+`npm install`  
+`npm run serve`
